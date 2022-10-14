@@ -4,7 +4,8 @@
  *
  * Return: alway returns 0
  *
- */int main(void)
+ */
+int main(void)
 {
 	unsigned char a = '0';
 	int i;
